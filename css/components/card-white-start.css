@@ -1,0 +1,19 @@
+.card-white-start {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px;
+	text-align: center;
+}
+
+
+.card-white-start img{
+	border-radius: 50%;
+	border-style: solid;
+	border-color: #FE7A48;
+}
+
+.card-white-start h1 {
+	margin-bottom: 80px;
+}
